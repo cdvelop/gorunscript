@@ -143,3 +143,54 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+<!-- SCRIPTS_SECTION_START -->
+## Available Scripts
+
+| Script Name | Description |
+|-------------|-------------|
+| `tag.sh` | Shell script utility |
+| `test-script.sh` | Shell script utility |
+| `go-mod-update.sh` | Go language utilities, Dependency updates |
+| `gonewproject.sh` | Go language utilities |
+| `pu-old.sh` | Shell script utility |
+| `repo-existing-setup.sh` | Repository management, System setup/config |
+| `repo-remote-create.sh` | Repository management |
+| `tag-go.sh` | Go language utilities |
+| `vps-setup-004-ssh-security.sh` | System setup/config |
+| `tags.sh` | Shell script utility |
+| `-user.sh` | Shell script utility |
+| `change-remote.sh` | Shell script utility |
+| `go-upgrade.sh` | Go language utilities |
+| `gotestadd.sh` | Go language utilities |
+| `pkg-update.sh` | Dependency updates |
+| `tag-all-rename.sh` | Shell script utility |
+| `deltag.sh` | Shell script utility |
+| `git-utils.sh` | Git operations |
+| `pu.sh` | Shell script utility |
+| `repo-rename.sh` | Repository management |
+| `tag-ver.sh` | Shell script utility |
+| `delete.sh` | Shell script utility |
+| `goget.sh` | Go language utilities |
+| `gomod-update.sh` | Dependency updates, Go language utilities |
+| `go-rename-project.sh` | Go language utilities |
+| `goget-all.sh` | Empty script file |
+| `repo-local-init.sh` | Repository management |
+| `functions.sh` | Shell script utility |
+| `go-mod-init.sh` | Go language utilities |
+| `gopu.sh` | Go language utilities |
+| `tag-rename.sh` | Shell script utility |
+| `vps-setup-003-ssh-change.sh` | System setup/config |
+| `vps-setup-005-time.sh` | System setup/config |
+| `rename.sh` | Shell script utility |
+| `repo-remote-delete.sh` | Repository management |
+| `syscall.sh` | Shell script utility |
+| `tag-all-delete.sh` | Shell script utility |
+| `test.sh` | Shell script utility |
+| `vps-setup-002-add-ssh.sh` | System setup/config |
+| `bkp.sh` | Shell script utility |
+| `gomod-check.sh` | Go language utilities |
+| `license-create.sh` | Shell script utility |
+| `rem-tracking.sh` | Shell script utility |
+
+<!-- SCRIPTS_SECTION_END -->
